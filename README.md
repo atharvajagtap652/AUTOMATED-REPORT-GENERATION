@@ -50,3 +50,4 @@ General Data Reporting: For any CSV-based data analysis that needs PDF reporting
 
 output:-
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8cc0750a-56ad-4f0f-97fc-79c0c1858073" />
